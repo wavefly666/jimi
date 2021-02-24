@@ -7,5 +7,6 @@ public class Exer {
         System.out.println("hard working！");
         System.out.println("hard working！");
         System.out.println("hard working！");
+        System.out.println("hard working！");
     }
 }
