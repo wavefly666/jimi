@@ -9,6 +9,6 @@ public class Study {
         System.out.println("good good study, day day up!");
         System.out.println("good good study, day day up!");
 
-        System.out.println("jimingjia123!");
+        System.out.println("Everything is OK!");
     }
 }
